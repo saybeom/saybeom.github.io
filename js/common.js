@@ -3,42 +3,42 @@ window.basic = {
     "groom": {
         "name": "박석범",
         "first_name": "석범",
-        "phone": "01085519254",
+        "phone": "01000000000",
         "bank": "하나",
-        "account": "하나 741-910359-06207",
+        "account": "하나 000",
         "parents": {
             "father": {
                 "name": "박영조",
-                "phone": "01045849254",
+                "phone": "01000000000",
                 "bank": "하나",
-                "account": "하나 699-810001-34607"
+                "account": "하나 000"
             },
             "mother": {
                 "name": "오계자",
-                "phone": "01040199254",
+                "phone": "01000000000",
                 "bank": "농협",
-                "account": "농협 356-4019-9254-53"
+                "account": "농협 000"
             }
         }
     },
     "bride": {
         "name": "장세희",
         "first_name": "세희",
-        "phone": "01073042379",
+        "phone": "01000000000",
         "bank": "신한",
-        "account": "신한 110-423-669119",
+        "account": "신한 000",
         "parents": {
             "father": {
                 "name": "장우진",
-                "phone": "01071857835",
+                "phone": "01000000000",
                 "bank": "국민",
-                "account": "국민 602801-01-041436"
+                "account": "국민 000"
             },
             "mother": {
                 "name": "최연희",
-                "phone": "01073882379",
+                "phone": "01000000000",
                 "bank": "농협",
-                "account": "농협 352-1255-6086-53"
+                "account": "농협 000"
             }
         }
     },
